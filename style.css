@@ -1,0 +1,104 @@
+
+
+.body
+
+      {
+            min-width: 200px;
+            display: grid;
+            padding: 20px;
+            justify-items: center;
+            justify-content: center;
+            {outline-style: none;
+            outline white-space: hidden;}
+            font-family: 'Annie Use Your Telescope', cursive;
+            font-family: 'Kalam', cursive;
+
+
+
+}
+
+.logo
+
+{
+      padding: 20px;
+      width: 90%;
+}
+
+.h1
+
+      {
+
+        display: grid;
+        padding: 10px;
+        justify-items: center;
+        justify-content: center;
+        font-family: 'Annie Use Your Telescope', cursive;
+        font-family: 'Kalam', cursive
+
+      }
+
+    .container
+
+#mainContainer {
+  justify-items: center;
+  justify-content: center;
+}
+
+    {
+
+
+
+          justify-items: center;
+          justify-content: center;
+          font-family: 'Annie Use Your Telescope', cursive;
+          font-family: 'Kalam', cursive;
+          {outline-style: none;
+          outline white-space: hidden;}
+
+}
+#new_task_input {
+text-transform: uppercase;
+}
+
+#main-container
+
+{
+      font-family: 'Annie Use Your Telescope', cursive;
+      font-family: 'Kalam', cursive;
+      justify-items: center;
+      justify-content: center;
+}
+
+
+
+
+
+#new-todo
+{
+  min-width: 200px;
+  text-transform: uppercase;
+
+}
+
+#string {
+
+text-transform: uppercase;
+
+}
+
+#add {
+
+  justify-items: center;
+  justify-content: center;
+  border-radius: 10%;
+  margin: 10px;
+}
+
+#delete
+{
+  justify-items: center;
+  justify-content: center;
+  border-radius: 10%;
+  margin-bottom: 10px;
+
+}
